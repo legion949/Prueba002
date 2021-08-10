@@ -5,7 +5,7 @@ git init
 
 git add .
 
-git commit -a "Your commit here!"
+git commit -m "Your commit here!"
 
 git push
 
@@ -30,5 +30,7 @@ git push -u origin main
 ##################################################
 
 git add .
-git commit -a "Your commit here!"
+git commit -m "4th Commit"
 git push
+
+######################################################################
