@@ -24,5 +24,11 @@ git hard MyNuMbEr
 
 
 git remote add origin https://github.com/legion949/Prueba002.git
-
+git branch -M main
 git push -u origin main
+
+##################################################
+
+git add .
+git commit -a "Your commit here!"
+git push
