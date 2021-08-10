@@ -1,8 +1,20 @@
 
-cd /d/1erEscritorio/004_ShinyProyects/ThugChem
+cd /d/1erEscritorio/004_ShinyProyects/Prueba002
+
+git init
 
 git add .
 
 git commit -a "Your commit here!"
 
 git push
+
+
+
+########################################################################
+
+
+# Visualizador temporal
+git --oneline
+
+git hard MyNuMbEr
